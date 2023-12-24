@@ -1,0 +1,38 @@
+[
+    {
+        "englishURN": 2200750,
+        "collection": "adab",
+        "volumeNumber": 1,
+        "bookNumber": 3,
+        "bookName": "Mawlas",
+        "babNumber": "39.00",
+        "babName": " Can a mawla say, \"I am from so-and-so\"?",
+        "hadithNumber": 74,
+        "hadithText": "'Abdu'r-Rahman ibn Habib said, \"'Abdullah ibn 'Umar asked me, 'Which\nclan are you from?' I replied, 'From Taym of Tamim.' He asked, 'One of themselves\nor one of their mawlas?' 'One of their mawlas,' I replied. He said, 'So why\ndid you not say, 'One of their mawlas'?\"</b>",
+        "bookID": "3.0",
+        "grade1": "Da'if",
+        "grade2": "",
+        "comments": "",
+        "ourHadithNumber": 1,
+        "matchingArabicURN": 2300740,
+        "last_updated": "2012-10-22 04:41:34"
+    },
+    {
+        "englishURN": 2200760,
+        "collection": "adab",
+        "volumeNumber": 1,
+        "bookNumber": 3,
+        "bookName": "Mawlas",
+        "babNumber": "40.00",
+        "babName": " The mawla of a people is one of them",
+        "hadithNumber": 75,
+        "hadithText": "Rifa'a ibn Rafi' reported that the Prophet, may Allah bless him and grant\nhim peace, said to 'Umar, \"Gather your people [the Muhajirun] for me.\" He\ndid so. When they reached the door of the Prophet, may Allah bless him and\ngrant him peace, 'Umar came to him and said, \"I have gathered my people for\nyou.\" The Ansar heard that and said, \"Revelation has been revealed about\nQuraysh.\" People came to see and hear what would be said to them [the Muhajirun].\nThe Prophet, may Allah bless him and grant him peace, came out and stood\nin the midst of them. He said, \"Are there those among you who are not of\nyou?\" They replied, \"Yes, there are those among us with whom we have made\ntreaties as well as our nephews and our mawlas.\" The Prophet said, \"Our ally\nis one of us. Our nephew is one of us. Our mawla is one of us.\" You who are\nlistening: our friends among you are those who have taqwa of Allah. If you\nare one of them, then that is good. If that is not the case, then look out.\nPeople will bring their actions on the Day of Rising and you will come with\nburdens and you will be shunned.\" Then he called out, \"O people!\" He raised\nhis hands and put them on the heads of Quraysh. \"O people! Quraysh are the\npeople of trustworthiness. If anyone who oppresses them (and one of the\ntransmitters thought that he said, 'faults them'), Allah will overturn him.\"\nHe repeated that three times.</b>",
+        "bookID": "3.0",
+        "grade1": "Hasan",
+        "grade2": "",
+        "comments": "",
+        "ourHadithNumber": 2,
+        "matchingArabicURN": 2300750,
+        "last_updated": "2012-08-31 04:57:38"
+    }
+]
