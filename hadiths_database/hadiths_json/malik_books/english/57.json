@@ -1,0 +1,38 @@
+[
+    {
+        "englishURN": 418960,
+        "collection": "malik",
+        "volumeNumber": 1,
+        "bookNumber": 57,
+        "bookName": "Jahannam",
+        "babNumber": "1.00",
+        "babName": " Description of Jahannam",
+        "hadithNumber": 1,
+        "hadithText": "<p>\nMalik related to me from Abu'z-Zinad from al-Araj from Abu\nHurayra that the Messenger of Allah, may Allah bless him and grant him\npeace, said, \"The fire of the children of Adam which they kindle is a\nseventieth part of the fire of Jahannam.\" They said, \"Messenger of\nAllah, this fire is certainly enough.\" He said, \"That fire is sixty-\nnine times greater.\"\n</p></b>",
+        "bookID": "57.0",
+        "grade1": null,
+        "grade2": "",
+        "comments": "",
+        "ourHadithNumber": 1,
+        "matchingArabicURN": 518230,
+        "last_updated": "2012-04-26 14:00:00"
+    },
+    {
+        "englishURN": 418970,
+        "collection": "malik",
+        "volumeNumber": 1,
+        "bookNumber": 57,
+        "bookName": "Jahannam",
+        "babNumber": "1.00",
+        "babName": " Description of Jahannam",
+        "hadithNumber": 2,
+        "hadithText": "<p>\nMalik related to me from his paternal uncle Abu Suhayl ibn Malik\nfrom his father that Abu Hurayra said, \"Do you think that it is red\nlike this fire of yours? It is blacker than tar.\"\n</p></b>",
+        "bookID": "57.0",
+        "grade1": null,
+        "grade2": "",
+        "comments": "",
+        "ourHadithNumber": 2,
+        "matchingArabicURN": 518240,
+        "last_updated": "2012-04-26 14:00:00"
+    }
+]
