@@ -1,0 +1,53 @@
+[
+    {
+        "arabicURN": 1712580,
+        "collection": "riyadussalihin",
+        "volumeNumber": 1,
+        "bookNumber": 9,
+        "babNumber": "232.00",
+        "hadithNumber": "1268",
+        "bookName": "كتاب الاعتكاف",
+        "babName": "- باب الاعتكاف في رمضان",
+        "hadithText": "عن ابن عمر رضي الله عنهما، قال‏:‏ كان رسول الله صلى الله عليه وسلم يعتكف العشر الأواخر من رمضان‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏",
+        "annotations": null,
+        "bookID": "9.0",
+        "grade1": null,
+        "ourHadithNumber": 1,
+        "matchingEnglishURN": 1611385,
+        "last_updated": null
+    },
+    {
+        "arabicURN": 1712590,
+        "collection": "riyadussalihin",
+        "volumeNumber": 1,
+        "bookNumber": 9,
+        "babNumber": "232.00",
+        "hadithNumber": "1269",
+        "bookName": "كتاب الاعتكاف",
+        "babName": "- باب الاعتكاف في رمضان",
+        "hadithText": "وعن عائشة رضي الله عنها أن النبي صلى الله عليه وسلم كان يعتكف العشر الأواخر من رمضان، حتى توفاه الله، تعالى ثم اعتكف أزواجه من بعده‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏",
+        "annotations": null,
+        "bookID": "9.0",
+        "grade1": null,
+        "ourHadithNumber": 2,
+        "matchingEnglishURN": 1611390,
+        "last_updated": null
+    },
+    {
+        "arabicURN": 1712600,
+        "collection": "riyadussalihin",
+        "volumeNumber": 1,
+        "bookNumber": 9,
+        "babNumber": "232.00",
+        "hadithNumber": "1270",
+        "bookName": "كتاب الاعتكاف",
+        "babName": "- باب الاعتكاف في رمضان",
+        "hadithText": "وعن أبي هريرة رضي الله عنه قال‏:‏ كان النبي صلى الله عليه وسلم يعتكف في كل رمضان عشرة أيام، فلما كان العام الذي قبض فيه اعتكف عشرين يومًا ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
+        "annotations": null,
+        "bookID": "9.0",
+        "grade1": null,
+        "ourHadithNumber": 3,
+        "matchingEnglishURN": 1611400,
+        "last_updated": null
+    }
+]
