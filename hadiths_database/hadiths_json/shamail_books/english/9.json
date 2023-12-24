@@ -1,0 +1,38 @@
+[
+    {
+        "englishURN": 1800690,
+        "collection": "shamail",
+        "volumeNumber": 1,
+        "bookNumber": 9,
+        "bookName": "Chapter 09. The Khuff (Leather Socks) Of Rasoolullah",
+        "babNumber": "9.00",
+        "babName": "Chapter 09. The Khuff (Leather Socks) Of Rasoolullah",
+        "hadithNumber": 69,
+        "hadithText": "Ibn Buraida reported that his father said:\n\"The Negus [the Emperor of Ethiopia] gave the Prophet (Allah bless him and give him peace) a pair of plain black shoes, so he put them on, then performed the minor ritual ablution and wiped over them.”</b>",
+        "bookID": "9.0",
+        "grade1": "Da'if Isnād",
+        "grade2": "",
+        "comments": "Najaashi was the title of kings of Abyssinia, like sharif was the title of the rulers of Makkah. The name of this Najaashi was As-hamah, who later became a Muslim. The'ulama have deduced from this hadith that it is permissible to accept a gift of a non- believer. Najaashi had not yet accepted Islaam at the time of sending the gift. The 'ulama have therefore summed up these in different ways.",
+        "ourHadithNumber": 1,
+        "matchingArabicURN": 1900730,
+        "last_updated": "2021-01-19 16:15:13"
+    },
+    {
+        "englishURN": 1800700,
+        "collection": "shamail",
+        "volumeNumber": 1,
+        "bookNumber": 9,
+        "bookName": "Chapter 09. The Khuff (Leather Socks) Of Rasoolullah",
+        "babNumber": "9.00",
+        "babName": "Chapter 09. The Khuff (Leather Socks) Of Rasoolullah",
+        "hadithNumber": 70,
+        "hadithText": "Al-Mughira ibn Shu'ba said:\n\"Dihya [a notable Companion of his] gave the Prophet (Allah bless him and give him peace) a pair of plain black shoes, so he wore them,\"— and Isra’il said, on the authority of Jabir, on the authority of 'Amir: \"[He also gave him] a gown, so he wore the shoes until they were perforated, without the Prophet (Allah bless him and give him peace) knowing whether or not they were made from the hide of a lawfully slaughtered animal.”</b>",
+        "bookID": "9.0",
+        "grade1": "Sahih",
+        "grade2": "",
+        "comments": "The last sentence of this hadith strengthens madh-hab of the Hanafis that it is permissible to use a tanned skin of an animal whether it is slaughtered according to shari'ah or not. Some of the 'ulama differ on this question. It has been discussed in the books of fiqh (jurisprudence).",
+        "ourHadithNumber": 2,
+        "matchingArabicURN": 1900740,
+        "last_updated": "2021-01-19 16:16:54"
+    }
+]

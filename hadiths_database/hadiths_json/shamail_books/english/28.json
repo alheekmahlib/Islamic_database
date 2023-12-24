@@ -1,0 +1,38 @@
+[
+    {
+        "englishURN": 1801850,
+        "collection": "shamail",
+        "volumeNumber": 1,
+        "bookNumber": 28,
+        "bookName": "Chapter  28. The Cup Of Rasoolullah",
+        "babNumber": "28.00",
+        "babName": "Chapter  28. The Cup Of Rasoolullah",
+        "hadithNumber": 186,
+        "hadithText": "Thabit said:\n“Anas ibn Malik brought out to us a wooden drinking vessel, roughly clamped with iron, then he said: ‘O Ihabit, this is the drinking vessel of Allah’s Messenger (Allah bless\nhim and give him peace)'!”</b>",
+        "bookID": "28.0",
+        "grade1": "Hasan Isnād",
+        "grade2": "",
+        "comments": "It is said that this cup was sold from the estate of Sayyidina Nadr ibn Anas radiyallahu anhu for eight lakh Dirhams and Imaam Bukhari drank water from it in Basrah. Some say that, that was another cup.",
+        "ourHadithNumber": 1,
+        "matchingArabicURN": 1901950,
+        "last_updated": "2021-01-30 16:22:33"
+    },
+    {
+        "englishURN": 1801860,
+        "collection": "shamail",
+        "volumeNumber": 1,
+        "bookNumber": 28,
+        "bookName": "Chapter  28. The Cup Of Rasoolullah",
+        "babNumber": "28.00",
+        "babName": "Chapter  28. The Cup Of Rasoolullah",
+        "hadithNumber": 187,
+        "hadithText": "Anas said:\n\"I had given Allah’s Messenger (Allah bless him and give him peace) every kind of beverage to drink using this vessel: water, date juice, honey and milk.”</b>",
+        "bookID": "28.0",
+        "grade1": "Sahih Isnād",
+        "grade2": "",
+        "comments": "Nabeedh is a drink made by soaking dates, raisins, etc. in water until these things (become soft and) give off its effect. It is a tonic and gives strength. Dates, etc. were soaked for Sayyidina Rasoolullah sallallahu alaihe wasallam at night and he drank it in the morning. It was also sometimes used the next day, provided it did not ferment and become intoxicating.",
+        "ourHadithNumber": 2,
+        "matchingArabicURN": 1901960,
+        "last_updated": "2021-01-30 16:23:21"
+    }
+]
